@@ -5,7 +5,8 @@ State-Of-The-Art Security Considerations.
 
 ### Current State of the Repository:
 # How to deploy (Remix IDE):
-1. Compile the contract
+*For simplicity's sake, I recommend using the Remix Online IDE (https://remix.ethereum.org/)* 
+1. Compile the contract.
 2. Deploy the contract using "Injected Provider Metamask" and as a constructor argument the id: "7743"
 3. Fund the contract (bank) with some ETH (low amount of Wei is sufficient).
 3. Accept the Metamask Transaction
